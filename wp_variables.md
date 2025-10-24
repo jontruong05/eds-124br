@@ -1,3 +1,3 @@
 # WP Variables
 
-Link to YouTube video: https://youtu.be/15xBKom-ybw
+Link to WP Variables video: https://youtu.be/15xBKom-ybw
